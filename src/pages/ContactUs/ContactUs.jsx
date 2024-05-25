@@ -51,7 +51,7 @@ function ContactUs() {
               Talk to Sales
             </h1>
             <p className="text-center">
-              Interested in eCart's wide range of products? Just pick up the
+              Interested in truMobiles's wide range of products? Just pick up the
               phone to chat with a friendly member of our team.
             </p>
             <br />
@@ -112,7 +112,7 @@ function ContactUs() {
             <p className="text-[#1f2937] font-serif text-xl mb-8">
               <b>Email:</b>
               <br />
-              ContactUs@ecart.com
+              ContactUs@truMobiles.com
             </p>
             <p className="text-[#1f2937] font-serif text-xl mb-8">
               <b>Text:</b>

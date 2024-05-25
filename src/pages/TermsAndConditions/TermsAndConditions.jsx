@@ -13,7 +13,7 @@ function TermsAndConditions() {
         <div className="lg:px-60 md:px-20 px-16 my-8">
           <p className="text-gray-500 font-bold text-lg mb-2">INTRODUCTION</p>
           <p className="text-gray-400">
-            Welcome to eCart, one of Pakistan's largest online shopping portals.
+            Welcome to truMobiles, one of Pakistan's largest online shopping portals.
             These Terms and Conditions apply to the Site and all its affiliated
             websites that reference these Terms and Conditions. By accessing the
             Site, you agree to understand and accept these Terms and Conditions.
@@ -67,16 +67,16 @@ function TermsAndConditions() {
           <p className="text-gray-400">
             All content, including reviews, comments, suggestions, and questions
             (referred to as "Submissions"), that you provide or submit on the
-            Site will become the exclusive property of eCart. Your Submissions
+            Site will become the exclusive property of truMobiles. Your Submissions
             are non-returnable, and any claims to them will not be considered.
-            eCart reserves the right to change, edit, delete, or modify any
+            truMobiles reserves the right to change, edit, delete, or modify any
             Submissions, but is not obligated to do so. When providing
             Submissions, you are required to provide accurate and complete
             information, including your name, address, email address, and other
             details as requested. By submitting your Submissions, you grant
-            eCart the right to use your provided name or username. You agree not
+            truMobiles the right to use your provided name or username. You agree not
             to provide false information or impersonate someone else in any
-            circumstances, as it is prohibited and may mislead eCart.
+            circumstances, as it is prohibited and may mislead truMobiles.
           </p>
         </div>
         <div className="lg:px-60 md:px-20 px-16 my-8">

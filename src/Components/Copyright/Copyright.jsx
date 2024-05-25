@@ -4,10 +4,10 @@ import { Link } from "react-router-dom";
 
 function Copyright() {
   return (
-    <Typography variant="body2" color="text.secondary" align="center" sx={{margin:"20px 0"}}>
+    <Typography variant="body2" color="text.secondary" align="center" sx={{ margin: "20px 0" }}>
       {"Copyright © "}
       <Link color="inherit" to={"/home"}>
-        eCart
+        truMobiles
       </Link>{" "}
       {new Date().getFullYear()}
       {"."}

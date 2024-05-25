@@ -3,7 +3,7 @@ import { useSelector, useDispatch } from "react-redux";
 import IconButton from "@mui/material/IconButton";
 import AddIcon from "@mui/icons-material/Add";
 import RemoveIcon from "@mui/icons-material/Remove";
-import { updateCartItemQuantity, removeCartItem } from "../../store/cartSlice";
+import { updattruMobilesItemQuantity, removtruMobilesItem } from "../../store/cartSlice";
 import CancelIcon from "@mui/icons-material/Cancel";
 
 function DrawerItem({ item }) {
@@ -28,12 +28,12 @@ function DrawerItem({ item }) {
       return newQuantity >= 1 ? newQuantity : 1;
     });
     dispatch(
-      updateCartItemQuantity({ id: item.id, quantity: quantity + amount })
+      updattruMobilesItemQuantity({ id: item.id, quantity: quantity + amount })
     );
   };
 
   const handleRemoveItem = () => {
-    dispatch(removeCartItem(item.id));
+    dispatch(removtruMobilesItem(item.id));
   };
 
   return (

@@ -25,7 +25,7 @@ function AboutUs() {
             About Us
           </h1>
           <p className="text-gray-500 text-center w-2/3 text-center">
-            At eCart, we are more than just an online shopping portal. We are a
+            At truMobiles, we are more than just an online shopping portal. We are a
             passionate team dedicated to delivering an exceptional shopping
             experience to our valued customers. Our story began with a vision to
             redefine convenience, choice, and quality in the world of
@@ -36,7 +36,7 @@ function AboutUs() {
             From trendy clothing to stylish shoes and everything in between, our
             curated collection is designed to cater to your unique preferences
             and help you express your individuality. <br />
-            <br /> But eCart is more than just a platform to buy products. We
+            <br /> But truMobiles is more than just a platform to buy products. We
             believe in building a strong community where every customer feels
             valued and heard. Our dedicated customer support team is always
             ready to assist you, ensuring your journey with us is seamless and
@@ -48,20 +48,20 @@ function AboutUs() {
             offering accurate product descriptions and detailed images, so you
             can make informed decisions with confidence. <br />
             <br />
-            At eCart, we understand that your time is precious. That's why we
+            At truMobiles, we understand that your time is precious. That's why we
             have streamlined our website to provide a user-friendly interface,
             making your shopping experience smooth and hassle-free. From easy
             navigation to secure payment options, we prioritize your convenience
             at every step. <br />
             <br />
-            We are grateful for the trust you place in us when choosing eCart as
+            We are grateful for the trust you place in us when choosing truMobiles as
             your preferred online shopping destination. We are committed to
             continuously improving and evolving to meet your evolving needs and
             exceed your expectations.
             <br />
             <br />{" "}
             <b>
-              Thank you for being a part of the eCart family. Together, let's
+              Thank you for being a part of the truMobiles family. Together, let's
               embark on a delightful shopping journey where style, convenience,
               and exceptional service converge.
             </b>

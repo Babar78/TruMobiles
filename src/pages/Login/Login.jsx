@@ -1,5 +1,5 @@
 import React from "react";
-import Logo from "../../assets/Logo/eCart-Logo.png";
+import Logo from "../../assets/Logo/TruMobile-logo.png";
 import LoginPic from "../../assets/login.jpg";
 import { Link } from "react-router-dom";
 import AlertMessage from "../../Components/Alert/AlertMessage";

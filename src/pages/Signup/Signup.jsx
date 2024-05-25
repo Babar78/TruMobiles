@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Logo from "../../assets/Logo/eCart-Logo.png";
+import Logo from "../../assets/Logo/TruMobile-logo.png";
 import axios from "axios";
 import LoadingSpinner from "../../Components/LoadingSpinner/LoadingSpinner";
 import AlertMessage from "../../Components/Alert/AlertMessage";

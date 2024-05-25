@@ -24,11 +24,11 @@ export default function FAQs() {
             have further questions about the security of ordering online from
             the
             <Link to={"/"} className="underline hover:cursor-pointer">
-              eCart.pk
+              truMobiles.pk
             </Link>
             , please feel free to e-mail us at&nbsp;
             <Link to={"#"} className="underline hover:cursor-pointer">
-              support@eCart.pk
+              support@truMobiles.pk
             </Link>
           </p>
         </div>
@@ -70,7 +70,7 @@ export default function FAQs() {
         </div>
         <div className="lg:px-60 md:px-20 px-16 my-8">
           <p className="text-gray-500 font-bold text-lg mb-2">
-            How do I cancel an order on eCart.pk?
+            How do I cancel an order on truMobiles.pk?
           </p>
           <p className="text-gray-400">
             <b className="text-gray-500">Answer: </b>

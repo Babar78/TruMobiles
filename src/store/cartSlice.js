@@ -18,20 +18,20 @@ const cartSlice = createSlice({
         state.cartItems.push({ ...item, quantity: quantityToAdd });
       }
     },
-    updateCartItemQuantity: (state, action) => {
+    updattruMobilesItemQuantity: (state, action) => {
       const { id, quantity } = action.payload;
       const cartItem = state.cartItems.find((item) => item.id === id);
       if (cartItem) {
         cartItem.quantity = quantity;
       }
     },
-    removeCartItem: (state, action) => {
+    removtruMobilesItem: (state, action) => {
       const itemId = action.payload;
       state.cartItems = state.cartItems.filter((item) => item.id !== itemId);
     },
   },
 });
 
-export const { addToCart, updateCartItemQuantity, removeCartItem } =
+export const { addToCart, updattruMobilesItemQuantity, removtruMobilesItem } =
   cartSlice.actions;
 export default cartSlice.reducer;
